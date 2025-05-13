@@ -51,7 +51,9 @@ namespace Lab_5
             sum = number1 + number2;
             Console.WriteLine("sum of number is :"+sum);
             
-            
         }
     }
 }
+//Git Lab-5
+int Addition = 10 + 8;
+Console.WriteLine("Sum :" + Addition);
